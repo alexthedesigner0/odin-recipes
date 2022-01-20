@@ -1,0 +1,37 @@
+.odin{
+    color: royalblue;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.recipes{
+    color: coral;
+    font-size: 20px;
+}
+
+.list,
+.subject,
+.description,
+.preparation,
+.odin{
+    text-align: center;
+}
+
+.subject{
+    color: coral;
+}
+
+#enchilada{
+    width: 300px;
+    height: auto;
+}
+
+#shrimp{
+    width: 300px;
+    height: auto;
+}
+
+#parmesan{
+    width: 300px;
+    height: auto;
+}
