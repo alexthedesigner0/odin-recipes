@@ -10,11 +10,13 @@
 }
 
 .list,
+.recipes,
 .subject,
 .description,
 .preparation,
 .odin{
     text-align: center;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
 }
 
 .subject{
